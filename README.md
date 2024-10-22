@@ -18,12 +18,12 @@
     <img src="https://komarev.com/ghpvc/?username=paswrd&style=flat-square&color=brightgreen">
 </a>
 <div id="text">
-  <h6>
-    Hey there!👋 I’m Anthony Silva, a 28 year old developer based in beautiful Austin, Texas, so Howdy Y’all🤠! I find joy in pursuing my passions as a photographer, car enthusiast, and aspiring developer. I love all things that are technical and I love learning about new topics, interests, activities. Strong beliver in <b>"Knowledge is key"</b> and my philosophy has always been of information holding a value in our world today. Take it easy on me, I'm trying my hardest 👉👈
-  </h6>
-<h7>
+  <h7>
+    Hey there!👋 I’m Anthony Silva, a 28 year old developer based in beautiful Austin, Texas, so howdy y’all🤠! I find joy in pursuing my passions as a photographer, car enthusiast, and aspiring developer. <b>I love all things that are technical and I love learning about new topics, interests, activities.</b> Strong beliver in <b>"Knowledge is key"</b> and my philosophy has always been of information holding a value in our world today. Take it easy on me, I'm trying my hardest 👉👈
+  </h7>
+<h6>
   🌱 I'm currently learning Java and it's core ins and outs, mainly to continue development on <a href="https://casper.fun">Casper</a>. Python is also something I want to learn next in the future. 
-</h7>
+</h6>
 
 </div>
 
