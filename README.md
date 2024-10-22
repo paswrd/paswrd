@@ -17,7 +17,10 @@
   <a href="https://github.com/paswrd/">
     <img src="https://komarev.com/ghpvc/?username=paswrd&style=flat-square&color=brightgreen">
 </a>
+<div id="text">
     ## Hi there 👋
+</div>
+
 </div>
 
 <!--
