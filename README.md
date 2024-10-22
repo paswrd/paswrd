@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://cdn.anthonyvsilva.com/IMG_1994.GIF" width="100"/>
+  
   <div id="badges">
   <a href="https://discordapp.com/users/325818256311189504">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat" alt="Discord Badge"
