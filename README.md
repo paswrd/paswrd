@@ -14,6 +14,7 @@
   </a>
   
 </div>
+![](https://komarev.com/ghpvc/?username=paswrd&color=blue&style=flat-square)
     ## Hi there 👋
 </div>
 
