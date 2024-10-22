@@ -12,11 +12,16 @@
   <a href="https://instagram.com/curbed.media">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat" alt="Instagram"/>
   </a>
-  
+  <a href="https://github.com/paswrd/">
+    <img src="https://komarev.com/ghpvc/?username=paswrd&style=for-the-badge">
+</a>
+
 </div>
-![](https://hit.yhype.me/github/profile?user_id=2798239)
+
+
     ## Hi there 👋
 </div>
+![](https://hit.yhype.me/github/profile?user_id=2798239)
 
 <!--
 **paswrd/paswrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
