@@ -14,7 +14,7 @@
   </a>
   
 </div>
-![](https://komarev.com/ghpvc/?username=paswrd&color=blue&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=2798239)
     ## Hi there 👋
 </div>
 
